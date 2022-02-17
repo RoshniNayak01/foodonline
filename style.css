@@ -33,8 +33,8 @@
     display:flex;
     flex-direction: column;
     background-color: black;
-    height: 18vh;
-    width: 120vw;
+    height: 14vh;
+    width: 100vw;
     font-family: 'Ubuntu Mono', monospace;
     margin-top:10px;
    border: 2px solid black;
@@ -97,9 +97,9 @@ ul li a:hover{
 #row1{
    color: yellow;
     font-weight:blue;
-    font-size: 2rem;
+    font-size: 4rem;
     text-align: center;
-    margin-top: 35px;
+    margin-top: 38px;
 }
 /*Button Styling*/
 .btn{
