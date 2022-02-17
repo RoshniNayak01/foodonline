@@ -32,9 +32,9 @@
 #navbar{
     display:flex;
     flex-direction: column;
-    background-color: black;
-    height: 14vh;
-    width: 100vw;
+    background-color: yellow;
+    height: 18vh;
+    width: 120vw;
     font-family: 'Ubuntu Mono', monospace;
     margin-top:10px;
    border: 2px solid black;
