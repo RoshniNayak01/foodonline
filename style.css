@@ -185,7 +185,7 @@ ul li a:hover{
     width: 29vw;
     height: 360px;
     border: 2px solid black;
-    background:url('a4.jpeg') no-repeat center center/cover; 
+    background:url("a4.jpe") no-repeat center center/cover; 
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -195,7 +195,7 @@ ul li a:hover{
     width: 29vw;
     height: 360px;
     border: 2px solid black;
-    background:url('a5.jpeg') no-repeat center center/cover;
+    background:url("a5.jpeg") no-repeat center center/cover;
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -205,7 +205,7 @@ ul li a:hover{
     width: 30vw;
     height: 360px;
     border: 2px solid black;
-    background:url('a6.jpeg') no-repeat center center/cover;
+    background:url("a6.jpeg") no-repeat center center/cover;
     display: flex;
     justify-content:center;
     align-items:flex-end;
