@@ -32,7 +32,7 @@
 #navbar{
     display:flex;
     flex-direction: column;
-    background-color: gray;
+    background-color: blue;
     height: 14vh;
     width: 100vw;
     font-family: 'Ubuntu Mono', monospace;
@@ -96,7 +96,7 @@ ul li a:hover{
 
 #row1{
    color: black;
-    font-weight:bold;
+    font-weight:blue;
     font-size: 2rem;
     text-align: center;
     margin-top: 35px;
@@ -136,7 +136,7 @@ ul li a:hover{
 }
 #row2::before{
     content: '';
-    background: url('a2.jpeg') no-repeat center center/cover;
+    background: url("a2.jpeg") no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left:0px;
