@@ -136,7 +136,7 @@ ul li a:hover{
 }
 #row2::before{
     content: '';
-    background: url("a2.jpg") no-repeat center center/cover;
+    background: url("A2.jpeg") no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left:0px;
@@ -161,7 +161,7 @@ ul li a:hover{
 }
 #row3::before{
     content: '';
-    background: url("a3.jpeg") no-repeat center center/cover;
+    background: url("A3.jpg") no-repeat center center/cover;
     position: absolute;
     top:0px;
     left:0px;
